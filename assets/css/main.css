@@ -2187,6 +2187,7 @@ button,
 
 /* Footer */
 #footer .copyright {
+  border-top: solid 2px rgba(210, 215, 217, 0.75);
   color: #9fa3a6;
   font-size: 0.9em; }
   #footer .copyright a {
